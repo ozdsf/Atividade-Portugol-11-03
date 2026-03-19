@@ -1,2 +1,2 @@
-# Atividade-Portugol-11-03
+# Laboratório-de-Programação
 Atividades de Laboratório de programação 
